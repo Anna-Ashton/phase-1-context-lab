@@ -70,7 +70,6 @@ let createEmployeeRecord = (employeeCard) => {
  */
 
 // Function populates a field properties from the elements from passed array of employee details
-
 const allWagesFor = function () {
     const eligibleDates = this.timeInEvents.map(function (e) {
         return e.date
